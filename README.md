@@ -4,13 +4,16 @@
 пароль: <amocrm>
 
 API для создания контакта или обновления его информации и открытия сделки
+
 https://tsnq.uz/api/amocrm/amocrm/make-lead
-Метод
-POST
+
+Метод POST
 Пример запроса
+
 {
     "name": <ИМЯ>,
     "email": <ПОЧТА>,
     "phone": <НОМЕР ТЕЛЕФОНА>
 }
+
 # amocrm-api
